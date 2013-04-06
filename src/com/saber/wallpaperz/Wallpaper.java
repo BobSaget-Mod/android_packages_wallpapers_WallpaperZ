@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.saber.wallpaperz;
 
 public class Wallpaper {
 

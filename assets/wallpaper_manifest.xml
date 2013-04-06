@@ -14,118 +14,127 @@
         name="<wallpaper name">
     -->
 
-    <category name="AOKP" >
+    <category name="SaberMod" >
 
         <wallpaper
-            author="ThaPHLASH"
-            url="http://aokp.co/wallpapers/thaplash_logo_head_office.jpg" />
+            author="sparksco and logo by krook6023"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/SaberMod_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/SaberMod.jpg" />
 
-        <wallpaper
-            author="ThaPHLASH"
-            url="http://aokp.co/wallpapers/thaplash_logo_head_office2.jpg" />
-
-        <wallpaper
-            author="eatmode4life"
-            url="http://aokp.co/wallpapers/eatmode4life_skycore.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_striped_blue.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_striped.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_village_gradient.jpg" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_abstract.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_abstract2.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_aokp_samurai.png" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/just_reboot_wall_10.png" />
-
-        <wallpaper
-            author="KnokFirst"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo_crazy.jpg" />
-
-        <wallpaper
-            author="KnokFirst"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo_light.jpg" />
-
-        <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo.jpg" />
-
-        <wallpaper
-            author="kwes1020"
-            url="http://aokp.co/wallpapers/kwes1020_aokpwp1.png" />
-
-        <wallpaper
-            author="kwes1020"
-            url="http://aokp.co/wallpapers/kwes1020_aokpwp2.png" />
     </category>
 
-    <category name="Older Wallpapers" >
+    <category name="General" >
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_blue.jpg" />
+            author="Abstract"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_abstract_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_abstract.jpg" />
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_green.jpg" />
+            author="Abstract-2"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_abstract_2_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_abstract_2.jpg" />
 
         <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_orange.jpg" />
+            author="Android Inside"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_android_circuit_board_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_android_circuit_board.jpg" />
 
         <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_setyourunicornfree.jpg" />
+            author="Blue Bubble"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_blue_bubble_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_blue_bubble.jpg" />
 
         <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x1.jpg" />
+            author="Virtual City"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_city_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_city.jpg" />
 
         <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x2.jpg" />
+            author="Code"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_code_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_code.jpg" />
 
         <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x3.jpg" />
+            author="Colored circles"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_colors_circles_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_colors_circles.jpg" />
 
         <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x4.jpg" />
+            author="Farm"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_farm_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_farm.jpg" />
 
         <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x5.jpg" />
+            author="Field"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_field_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_field.jpg" />
 
         <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x6.jpg" />
+            author="Grass"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_grass_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_grass.jpg" />
 
         <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensi_star.jpg" />
+            author="Greener grass"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_green_grass_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_green_grass.jpg" />
 
         <wallpaper
-            author="SamsungClay"
-            url="http://aokp.co/wallpapers/samsungclay02.jpg" />
+            author="Green leaf"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_green_leaf_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_green_leaf.jpg" />
+
+        <wallpaper
+            author="Highway"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_highway_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_highway.jpg" />
+
+        <wallpaper
+            author="Matrix code"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_matrix_code_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_matrix_code.jpg" />
+
+        <wallpaper
+            author="Android nature"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_nature_android_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_nature_android.jpg" />
+
+        <wallpaper
+            author="Planet space view"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_planets_space_view_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_planets_space_view.jpg" />
+
+        <wallpaper
+            author="Purple water"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_purple_water_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_purple_water.jpg" />
+
+        <wallpaper
+            author="Black/blue 3D cubes"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpapers_cube_3d_black_blue_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpapers_cube_3d_black_blue.jpg" />
+
+        <wallpaper
+            author="Metro"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_subway_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_subway.jpg" />
+
+        <wallpaper
+            author="Transparent leaf"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_transparent_leaf_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_transparent_leaf.jpg" />
+
+        <wallpaper
+            author="Wheat"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_wheat_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_wheat.jpg" />
+
+        <wallpaper
+            author="Wheat-2"
+            thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_wheat_2_small.jpg"
+            url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_wheat_2.jpg" />
+
     </category>
 
 </wallpapers>
