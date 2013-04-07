@@ -14,16 +14,12 @@
         name="<wallpaper name">
     -->
 
-    <category name="SaberMod" >
+    <category name="Wallpapers" >
 
         <wallpaper
             author="sparksco and logo by krook6023"
             thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/SaberMod_small.jpg"
             url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/SaberMod.jpg" />
-
-    </category>
-
-    <category name="General" >
 
         <wallpaper
             author="Abstract"
@@ -134,7 +130,6 @@
             author="Wheat-2"
             thumbUrl="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_wheat_2_small.jpg"
             url="https://raw.github.com/SaberMod/android_packages_wallpapers_WallpaperZ/wallpapers/SaberMod/wallpaper_wheat_2.jpg" />
-
     </category>
 
 </wallpapers>
